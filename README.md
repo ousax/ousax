@@ -17,6 +17,7 @@ I started my programming journey as a hobby, exploring various languages and bui
   - **IDORs (Insecure Direct Object References)**: Understanding of how to manipulate object references to gain unauthorized access.
   - **BOLA (Broken Object Level Authorization)**: Proficient in assessing and exploiting improper authorization mechanisms.
   - **SQL Injection (SQLi)**: Experienced in finding and exploiting SQL injection vulnerabilities to access sensitive data.
+  - ** Cross Site Scripting (RXSS, SXSS)**: It ignited my passion for cybersecurity , seeing how simple scripts could expose security flaws made me eager to learn more.
 
 ## Bug Bounty Achievements
 - Successfully reported vulnerabilities to several platforms, earning recognition and rewards.
