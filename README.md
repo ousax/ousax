@@ -1,6 +1,7 @@
 # Hello, everyone 👋
 
 I started my programming journey as a hobby, exploring various languages and building small projects. Over time, my curiosity led me to the fascinating world of cybersecurity. The challenge of finding vulnerabilities and contributing to a safer internet captivated me, and I shifted my focus to bug bounty hunting.
+Learning new stuff is the fuel that keeps me going forward.
 
 ## Skills
 - **Programming Languages**:
